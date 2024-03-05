@@ -1,0 +1,52 @@
+
+.titlepage h1{
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
+.titlepage h2{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+  
+body{
+    background: url(/fondo.png);
+    -webkit-gradient:(linear, right top, left top,(from(#051dee), to(#0bf5da)));
+  background: url(/images/fondo.png),
+  linear-gradient(to bottom, rgb(2, 1, 40), #6f031c,  #700462,#410226,rgb(3, 7, 51),black);
+   
+  /* style="background: linear-gradient(rgb(3, 7, 51),black);" */
+}
+navbar-nav a:hover{
+    
+    text-decoration: underline purple;
+    display: unset;
+
+}
+.nav-link:hover {
+    text-decoration: underline;
+    line-height: 1.5;
+    text-underline-offset: 0.5rem;
+}
+
+.card{
+    background-color: #040102;
+}
+.card h2{
+    color: blue;
+}
+.card p{
+    color: rgb(190, 30, 38);
+}
+.card ul li{
+    color: rgb(142, 18, 96);
+    background-color: #040102;
+}
+
+.card-body a{
+    display: flex;
+    justify-content: center;
+   
+}
