@@ -14,7 +14,7 @@
 body{
     background: url(/fondo.png);
     -webkit-gradient:(linear, right top, left top,(from(#051dee), to(#0bf5da)));
-  background: url(/images/fondo.png),
+  background: url(../images/fondo.png),
   linear-gradient(to bottom, rgb(2, 1, 40), #6f031c,  #700462,#410226,rgb(3, 7, 51),black);
    
   /* style="background: linear-gradient(rgb(3, 7, 51),black);" */
