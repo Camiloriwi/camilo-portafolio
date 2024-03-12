@@ -19,6 +19,8 @@ body{
    
   /* style="background: linear-gradient(rgb(3, 7, 51),black);" */
 }
+
+
 navbar-nav a:hover{
     
     text-decoration: underline purple;
